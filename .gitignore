@@ -1,0 +1,6 @@
+/models
+/conaiki/logs
+/conaiki/wandb
+/conaiki/qwen_omni_finetuned
+/conaiki/qwen_omni_finetuned_common_voice_for_qwen_train_less_than_3_sec
+/conaiki/data
